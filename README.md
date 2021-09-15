@@ -8,3 +8,4 @@
 </a>
 
    [![C/C++ CI](https://github.com/17251A0404/Stepin_Casestudy/actions/workflows/c-build.yml/badge.svg)](https://github.com/17251A0404/Stepin_Casestudy/actions/workflows/c-build.yml)
+   [![Valgrind](https://github.com/17251A0404/Stepin_Casestudy/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/17251A0404/Stepin_Casestudy/actions/workflows/Valgrind.yml)
